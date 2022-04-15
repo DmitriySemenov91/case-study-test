@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/case-study-test/static/css/main.1ba50c2c.css",
+    "main.js": "/case-study-test/static/js/main.3f028725.js",
+    "index.html": "/case-study-test/index.html",
+    "main.1ba50c2c.css.map": "/case-study-test/static/css/main.1ba50c2c.css.map",
+    "main.3f028725.js.map": "/case-study-test/static/js/main.3f028725.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ba50c2c.css",
+    "static/js/main.3f028725.js"
+  ]
+}
