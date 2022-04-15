@@ -1,3 +1,13 @@
 .changeColor{
     background-color: lightgrey;
 }
+
+#container #radio{
+    border-radius: 10px;
+    background: #0247cb;
+}
+
+#child #radio{
+    border-radius: 2px;
+    background: white;
+}
